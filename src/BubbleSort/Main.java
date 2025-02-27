@@ -6,11 +6,11 @@ package BubbleSort;
 public class Main{
 	
 	public static void main(String args[]) {
-		int array[] = {11, 4, 13, 24, 15, 1, 0, 7, 9, 5}; //Array desorganizada com 10 posições.
+		int array[] = {11, 4, 13, 24, 15, 1, 0, 7, 9, 5}; //Array desorganizado com 10 posições.
 		
 		bubbleSort(array); //Chamada do método Bubble Sort.
 		
-		for(int i : array) { //Impressão dos valores da array na tela do usuário.
+		for(int i : array) { //Impressão dos valores do array na tela do usuário.
 			System.out.print(i + " ");
 		}
 	}
