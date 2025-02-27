@@ -1,5 +1,5 @@
 # ordenacao-bubble-sort
-Algoritmo de ordenação Bubble Sort implementado na linguagem Java. Esse algortimo é responsável por ordenar uma array com 10 posições. (por padrão).
+Algoritmo de ordenação Bubble Sort implementado na linguagem Java. Esse algortimo é responsável por ordenar um array com 10 posições. (por padrão).
 
 O algoritmo Bubble Sort possui complexidade de tempo O(N²), uma das piores performances possíveis na escala "Big O Notation". Apesar do péssimo desempenho, o código é simples e de fácil entendimento, sendo considerado um bom material para estudar o funcionamento de loops e algoritmos em geral.
 
